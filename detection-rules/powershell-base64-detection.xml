@@ -1,0 +1,11 @@
+<rule id="100120" level="12">
+  <if_sid>92057</if_sid>
+
+  <description>LAB: Suspicious PowerShell Base64 execution detected</description>
+
+  <mitre>
+    <id>T1059.001</id>
+  </mitre>
+
+  <group>sysmon,powershell,execution,lab_detection,</group>
+</rule>
