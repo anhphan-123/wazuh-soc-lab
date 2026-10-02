@@ -1,0 +1,11 @@
+<rule id="100130" level="10">
+  <if_sid>5763</if_sid>
+
+  <description>LAB: SSH brute force detected on Linux endpoint</description>
+
+  <mitre>
+    <id>T1110</id>
+  </mitre>
+
+  <group>linux,sshd,bruteforce,authentication,lab_detection,</group>
+</rule>
