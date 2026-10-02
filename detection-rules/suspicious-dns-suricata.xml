@@ -1,0 +1,13 @@
+<rule id="100140" level="8">
+  <if_sid>86601</if_sid>
+
+  <field name="alert.signature_id">^1000001$</field>
+
+  <description>LAB: Suspicious DNS activity detected by Suricata</description>
+
+  <mitre>
+    <id>T1071.004</id>
+  </mitre>
+
+  <group>dns,lab_detection,</group>
+</rule>
