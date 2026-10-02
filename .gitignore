@@ -1,0 +1,9 @@
+*.log
+*.pcap
+*.evtx
+*.zip
+*.7z
+*.exe
+*.dll
+.env
+secrets/

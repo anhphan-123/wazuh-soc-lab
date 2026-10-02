@@ -1,0 +1,11 @@
+<rule id="100110" level="8">
+  <if_sid>92302</if_sid>
+
+  <description>LAB: Registry Run Key persistence detected on Windows endpoint</description>
+
+  <mitre>
+    <id>T1547.001</id>
+  </mitre>
+
+  <group>sysmon,persistence,registry,lab_detection,</group>
+</rule>
