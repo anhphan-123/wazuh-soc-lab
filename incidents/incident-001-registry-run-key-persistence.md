@@ -48,7 +48,7 @@ Khi người dùng đăng nhập, chương trình được khai báo trong Run K
 
 ### Bằng chứng mô phỏng
 
-![Simulation](../screenshots/incident-001/01-simulation.png)
+![Simulation](../screenshots/incident-001/incident-001-simulation.png)
 
 ---
 
@@ -81,7 +81,7 @@ Log cho thấy process `reg.exe` đã thực hiện thao tác ghi một giá tr�
 
 ### Registry Evidence
 
-![Registry Evidence](../screenshots/incident-001/03-registry-evidence.png)
+![Registry Evidence](../screenshots/incident-001/incident-001-evidence.png)
 
 ---
 
@@ -125,7 +125,8 @@ Agent: win10-flare
 
 ### Wazuh Alert
 
-![Wazuh Alert](../screenshots/incident-001/02-wazuh-alert.png)
+
+![Wazuh Alert](../screenshots/incident-001/incident-001-alert.png)
 
 ---
 
