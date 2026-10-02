@@ -48,3 +48,7 @@ Activity Simulation
 - DNS traffic analysis
 - MITRE ATT&CK mapping
 - Incident documentation
+
+## Architecture
+
+[View Lab Architecture](architecture/lab-architecture.md)
